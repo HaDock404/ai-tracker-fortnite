@@ -1,0 +1,3 @@
+- prendre en photo les fins de parties
+- faire les requêtes sur les joueurs perdu/gagnants
+- faire de l'analyse sur leur stats et graphique
